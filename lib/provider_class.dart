@@ -9,6 +9,7 @@ class ProviderClass extends ChangeNotifier{
 
   ProviderClass(){
     _kitchensModel.kitchens=kitchenList;
+    //kljlkll;lkjkljjkl
   }
 
   setData(KitchensModel kitchensModel){
