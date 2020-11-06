@@ -11,6 +11,7 @@ class LoginGoogle extends StatefulWidget {
 
 class _LoginGoogleState extends State<LoginGoogle> {
   bool _isLoggedIn = false;
+  bool issd=false;
 
   GoogleSignIn _googleSignIn = GoogleSignIn(scopes: ['email']);
 
