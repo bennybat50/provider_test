@@ -1,0 +1,14 @@
+library providermodule;
+export 'modules/models/PublicVar.dart';
+export 'modules/models/urls.dart';
+export 'modules/models/error.dart';
+export 'modules/models/data.dart';
+export 'modules/bloc/server.dart';
+export 'modules/bloc/app_bloc.dart';
+export 'modules/utils/widgets/global-widgets.dart';
+export 'modules/utils/widgets/orderwidgets.dart';
+export 'modules/utils/app_actions.dart';
+export 'modules/utils/next_page.dart';
+export 'modules/utils/playvideo.dart';
+export 'modules/utils/viewPhoto.dart';
+export 'modules/utils/moneyConverter.dart';
