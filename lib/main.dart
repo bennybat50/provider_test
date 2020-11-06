@@ -98,8 +98,10 @@ class _MyHomePageState extends State<MyHomePage> {
         data: data2,
         url: url,
       ),
+      
     ]);
     var ress = {};
+    var rss=[];
     for (var i = 0; i < responses.length; i++) {
       switch (i) {
         case 0:
